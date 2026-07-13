@@ -6,11 +6,15 @@ This guide covers the components of the Wise Design System.
 
 An action prompt is a message that requires the user to actively choose between options.
 
+![Action prompt in Launchpad](../assets/components_action-prompt_action_prompt_in_launchpad_379.png)
+
 ### When to use
 
 Use an action prompt when you want the user to make a choice. They should have at least two options, even if one is just to dismiss the message.
 
 
+
+![Warning action prompt in card page](../assets/components_action-prompt_warning_action_prompt_in_card__380.png)
 
 ### Types & Usage
 
@@ -24,6 +28,12 @@ Use an error to let users know when something has gone wrong and needs their att
 
 
 
+![Error action prompt in Launchpad](../assets/components_action-prompt_error_action_prompt_in_launchp_381.png)
+
+![Error action prompt](../assets/components_action-prompt_error_action_prompt_382.png)
+
+![Error action prompt](../assets/components_action-prompt_error_action_prompt_383.png)
+
 #### Warning
 
 Use a warning when you need to alert users to potential issues that could impact their experience. 
@@ -32,17 +42,35 @@ These messages are preventative — they help users take action to avoid negativ
 
 
 
+![Warning action prompt in card page](../assets/components_action-prompt_warning_action_prompt_in_card__384.png)
+
+![Warning action prompt](../assets/components_action-prompt_warning_action_prompt_385.png)
+
+![Warning action prompt](../assets/components_action-prompt_warning_action_prompt_386.png)
+
 #### Neutral
 
 Use a neutral prompt for everyday tasks that need a response to move forward. These are functional requests, such as asking a user to "Send" or "Decline" a request for money.
 
 
 
+![Neutral action prompt in Launchpad](../assets/components_action-prompt_neutral_action_prompt_in_launc_387.png)
+
+![Neutral action prompt](../assets/components_action-prompt_neutral_action_prompt_388.png)
+
+![Neutral action prompt](../assets/components_action-prompt_neutral_action_prompt_389.png)
+
 #### Success
 
 Use a success prompt to confirm a process is finished and offer the user their next logical action.
 
 
+
+![Success action prompt in Launchpad](../assets/components_action-prompt_success_action_prompt_in_launc_390.png)
+
+![Success action prompt](../assets/components_action-prompt_success_action_prompt_391.png)
+
+![Success action prompt](../assets/components_action-prompt_success_action_prompt_392.png)
 
 #### Proposition
 
@@ -52,11 +80,21 @@ Only include a proposition when it fits naturally into the user's current contex
 
 
 
+![Proposition action prompt in a transactions page](../assets/components_action-prompt_proposition_action_prompt_in_a_393.png)
+
+![Proposition action prompt in transaction page](../assets/components_action-prompt_proposition_action_prompt_in_t_394.png)
+
+![Proposition action prompt in Launchpad](../assets/components_action-prompt_proposition_action_prompt_in_l_395.png)
+
 ### Placement
 
 Outside of Launchpad, place action prompts where they’re most relevant to what the user is doing. 
 
 
+
+![Action prompt in statements page](../assets/components_action-prompt_action_prompt_in_statements_pa_396.png)
+
+![Action prompt in Cards page](../assets/components_action-prompt_action_prompt_in_cards_page_397.png)
 
 ### Interaction
 
@@ -68,11 +106,19 @@ Include a close button (X) for optional actions, if either button doesn’t allo
 
 
 
+![Warning action prompt with dismiss button](../assets/components_action-prompt_warning_action_prompt_with_dis_398.png)
+
+![Neutral action prompt](../assets/components_action-prompt_neutral_action_prompt_399.png)
+
 #### Call to actions (CTAs)
 
 Action prompts always need a button because their purpose is to get a decision from the user. The button should clearly state what will happen next.
 
 
+
+![Success action prompt with a primary button](../assets/components_action-prompt_success_action_prompt_with_a_p_400.png)
+
+![Success action prompt with no button](../assets/components_action-prompt_success_action_prompt_with_no__401.png)
 
 ### Writing an Action prompt
 
@@ -106,6 +152,10 @@ The CTA should start with a verb that describes the user's next step or the plac
 
 
 
+![Error action prompt](../assets/components_action-prompt_error_action_prompt_402.png)
+
+![Error action prompt](../assets/components_action-prompt_error_action_prompt_403.png)
+
 #### Warning
 
 A warning prompt must make the risk clear and the next step obvious. Use every part of the prompt to guide the user toward the right action.
@@ -125,6 +175,10 @@ The CTA should start with a verb that describes the specific next step. Avoid ge
 
 
 
+
+![Warning action prompt](../assets/components_action-prompt_warning_action_prompt_404.png)
+
+![Warning action prompt](../assets/components_action-prompt_warning_action_prompt_405.png)
 
 #### Neutral
 
@@ -148,6 +202,10 @@ The button should start with a verb that describes exactly what the user is goin
 
 
 
+![Neutral action prompt](../assets/components_action-prompt_neutral_action_prompt_406.png)
+
+![Neutral action prompt](../assets/components_action-prompt_neutral_action_prompt_407.png)
+
 #### Success
 
 A success prompt is one of the moments where a warmer tone is appropriate, but clarity still comes first.
@@ -169,6 +227,10 @@ Your CTA should start with a verb and refer to the action the customer is going 
 
 
 
+
+![Success action prompt](../assets/components_action-prompt_success_action_prompt_408.png)
+
+![Success action prompt](../assets/components_action-prompt_success_action_prompt_409.png)
 
 #### Proposition
 
@@ -194,6 +256,10 @@ Your CTA should start with a verb and refer to the action the customer is going 
 
 
 
+![Proposition action prompt](../assets/components_action-prompt_proposition_action_prompt_410.png)
+
+![Proposition action prompt](../assets/components_action-prompt_proposition_action_prompt_411.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -208,11 +274,15 @@ Your CTA should start with a verb and refer to the action the customer is going 
 
 An avatar is a representation of a unique entity — like a person, a business, or an object. It can contain initials, images, icons, or flags.
 
+![Avatar](../assets/components_avatar_avatar_412.png)
+
 ### Sizes
 
 Supported sizes are 16, 24, 32, 40, 48, 56,  and 72.
 
 
+
+![Avatar sizes](../assets/components_avatar_avatar_sizes_413.png)
 
 #### Avatar sizes
 
@@ -220,11 +290,29 @@ List item supports five different avatar sizes with 48px as the default, other a
 
 
 
+![32px avatar examples](../assets/components_avatar_32px_avatar_examples_414.png)
+
+![40px avatar example](../assets/components_avatar_40px_avatar_example_415.png)
+
+![48px avatar example](../assets/components_avatar_48px_avatar_example_416.png)
+
+![56px avatar example](../assets/components_avatar_56px_avatar_example_417.png)
+
+![72px avatar example](../assets/components_avatar_72px_avatar_example_418.png)
+
 ### Media
 
 There are 4 media types available for avatar. Image, flag, icon and text.
 
 
+
+![Avatar with image](../assets/components_avatar_avatar_with_image_419.png)
+
+![Avatar with flag](../assets/components_avatar_avatar_with_flag_420.png)
+
+![Avatar with clock icon](../assets/components_avatar_avatar_with_clock_icon_421.png)
+
+![Avatar with AA text](../assets/components_avatar_avatar_with_aa_text_422.png)
 
 #### Image
 
@@ -234,11 +322,21 @@ Images are used to represent either a person or a brand by utilising their logo.
 
 
 
+![Avatar with image to avatar with initials](../assets/components_avatar_avatar_with_image_to_avatar_wi_423.png)
+
+![Avatar google logo to avatar with shopping bag icon](../assets/components_avatar_avatar_google_logo_to_avatar_w_424.png)
+
+![Avatars with airbnb, google and coop logos](../assets/components_avatar_avatars_with_airbnb__google_an_425.png)
+
+![Avatars with airbnb, google and coop logos all stretched or oversized](../assets/components_avatar_avatars_with_airbnb__google_an_426.png)
+
 #### Flag
 
 Flags are used to represent either a currency or a country. We support all global flags in our libraries.
 
 
+
+![Avatars with different world flags](../assets/components_avatar_avatars_with_different_world_f_427.png)
 
 #### Icon
 
@@ -249,6 +347,10 @@ Icon avatars come in an interactive and non interactive state, see more informat
 
 
 
+
+![Avatars with different category icons](../assets/components_avatar_avatars_with_different_categor_428.png)
+
+![Avatar in an activity list item](../assets/components_avatar_avatar_in_an_activity_list_ite_429.png)
 
 #### Text
 
@@ -262,6 +364,14 @@ Size 16 avatar does not support the text variant as it doesn’t pass accessibil
 
 
 
+![Avatar with JW initials](../assets/components_avatar_avatar_with_jw_initials_430.png)
+
+![Double avatar with +3 text](../assets/components_avatar_double_avatar_with__3_text_431.png)
+
+![Double avatar with more than 2 characters](../assets/components_avatar_double_avatar_with_more_than_2_432.png)
+
+![Double avatar with 2 characters](../assets/components_avatar_double_avatar_with_2_character_433.png)
+
 ### Types
 
 There are 2 different types of avatar with multiple subtypes underneath each.
@@ -270,17 +380,29 @@ There are 2 different types of avatar with multiple subtypes underneath each.
 
 
 
+![Avatar with EU flag](../assets/components_avatar_avatar_with_eu_flag_434.png)
+
+![Double avatar with photo and UK flag](../assets/components_avatar_double_avatar_with_photo_and_u_435.png)
+
 ### Single
 
 There are 3 types of single avatar, standalone, with a badge or with a notifications.
 
 
 
+![Avatar with snowflake icon](../assets/components_avatar_avatar_with_snowflake_icon_436.png)
+
+![Avatar with image and fast flag badge](../assets/components_avatar_avatar_with_image_and_fast_fla_437.png)
+
+![Avatar with FG initials and a notification ](../assets/components_avatar_avatar_with_fg_initials_and_a__438.png)
+
 #### Standalone
 
 When you need to make it easier for a user to identify content, like a recipient or currency.
 
 
+
+![Wise launchpad home screen on desktop](../assets/components_avatar_wise_launchpad_home_screen_on__439.png)
 
 #### With badge
 
@@ -290,6 +412,22 @@ There are 6 different types of badges you can use.
 
 
 
+![Avatar with flag badge](../assets/components_avatar_avatar_with_flag_badge_440.png)
+
+![Avatar with image and fast flag badge](../assets/components_avatar_avatar_with_image_and_fast_fla_441.png)
+
+![Avatar with image and google badge](../assets/components_avatar_avatar_with_image_and_google_b_442.png)
+
+![Avatar with different status badges](../assets/components_avatar_avatar_with_different_status_b_443.png)
+
+![Avatar with plus action](../assets/components_avatar_avatar_with_plus_action_444.png)
+
+![Avatar with a reference icon badge](../assets/components_avatar_avatar_with_a_reference_icon_b_445.png)
+
+![Avatars being used in lists and standalone](../assets/components_avatar_avatars_being_used_in_lists_an_446.png)
+
+![Avatar with two badges](../assets/components_avatar_avatar_with_two_badges_447.png)
+
 #### With notification
 
 Notifications are used to indicate to the user that there is a notification behind the avatar that requires their attention. 
@@ -297,6 +435,8 @@ Notifications are used to indicate to the user that there is a notification behi
 These are primarily used for the profile avatar.
 
 
+
+![Profile avatar with notification ](../assets/components_avatar_profile_avatar_with_notificati_448.png)
 
 ### Double
 
@@ -306,17 +446,37 @@ This can be useful for representing recipient and currency or for currency conve
 
 
 
+![Double horizontal with image and flag](../assets/components_avatar_double_horizontal_with_image_a_449.png)
+
+![Double diagonal avatar with two flags](../assets/components_avatar_double_diagonal_avatar_with_tw_450.png)
+
 #### Double horizontal
 
 When you don’t need to retain width alignment with other avatars to keep content aligned — for example in action buttons or tables.
 
 
 
+![Double horizontal avatar with image and flag](../assets/components_avatar_double_horizontal_avatar_with__451.png)
+
+![Double avatar on a table](../assets/components_avatar_double_avatar_on_a_table_452.png)
+
+![Double horizontal avatar on list item](../assets/components_avatar_double_horizontal_avatar_on_li_453.png)
+
+![Double horizontal avatar with image and text](../assets/components_avatar_double_horizontal_avatar_with__454.png)
+
+![Four avatars stacked horizontally](../assets/components_avatar_four_avatars_stacked_horizonta_455.png)
+
 #### Double diagonal
 
 Use when you need to retain width alignment with other avatars — for example in navigation options.
 
 
+
+![Double diagonal avatar with flags](../assets/components_avatar_double_diagonal_avatar_with_fl_456.png)
+
+![Double diagonal avatar on a list item](../assets/components_avatar_double_diagonal_avatar_on_a_li_457.png)
+
+![Double diagonal avatar in a button](../assets/components_avatar_double_diagonal_avatar_in_a_bu_458.png)
 
 ### Interaction
 
@@ -326,6 +486,12 @@ These rules only apply to the initials and icon variation of avatar.
 
 
 
+![Interactive avatar as profile](../assets/components_avatar_interactive_avatar_as_profile_459.png)
+
+![Non interactive avatar on list item](../assets/components_avatar_non_interactive_avatar_on_list_460.png)
+
+![Interactive avatar on list item](../assets/components_avatar_interactive_avatar_on_list_ite_461.png)
+
 #### Selected
 
 Avatars have an optional selected state which can be used when you’re selecting from a list of options. For example choosing a spending category or an icon for your Jar. 
@@ -333,6 +499,10 @@ Avatars have an optional selected state which can be used when you’re selectin
 Selectable avatars always need to use the interactive background state.
 
 
+
+![Collection of categories using the interactive avatar](../assets/components_avatar_collection_of_categories_using_462.png)
+
+![Collection of category avatars using the non interactive avatar](../assets/components_avatar_collection_of_category_avatars_463.png)
 
 ### Accessibility
 
@@ -353,6 +523,8 @@ Never use an avatar in isolation without copy or interaction cues (such as a che
 ## Bottom sheet
 
 A bottom sheet is a container you can use to display supporting content or a short, supplementary task on mobile experiences.
+
+![TBC](../assets/components_bottom-sheet_tbc_464.png)
 
 ### When to use
 
@@ -466,6 +638,8 @@ It’s also good practice to front load the most important information. For exam
 
 A button lets the user perform an action with a tap or a click.
 
+![Button](../assets/components_button_button_465.png)
+
 ### When to use
 
 
@@ -478,11 +652,23 @@ There are two different types of button that, default and negative, these design
 
 
 
+![Default button style](../assets/components_button_default_button_style_466.png)
+
+![Negative button type](../assets/components_button_negative_button_type_467.png)
+
 ### Priorities
 
 Priorities set a visual hierarchy amongst the buttons displayed on the screen to help more important buttons to take precedence over others.
 
 
+
+![Primary button](../assets/components_button_primary_button_468.png)
+
+![Secondary button](../assets/components_button_secondary_button_469.png)
+
+![Secondary neutral button](../assets/components_button_secondary_neutral_button_470.png)
+
+![Tertiary button](../assets/components_button_tertiary_button_471.png)
 
 #### Primary
 
@@ -492,11 +678,25 @@ You should always have one primary button per page where relevant, this can cont
 
 
 
+![Primary button](../assets/components_button_primary_button_472.png)
+
+![Footer buttons with primary secondary and minimal buttons](../assets/components_button_footer_buttons_with_primary_se_473.png)
+
+![Footer buttons with two primary's and a minimal button](../assets/components_button_footer_buttons_with_two_primar_474.png)
+
 #### Secondary
 
 Use secondary for providing alternatives to the primary action, or when none of your actions are more important than the others.
 
 
+
+![Secondary on list items](../assets/components_button_secondary_on_list_items_475.png)
+
+![Secondary button paired with negative ](../assets/components_button_secondary_button_paired_with_n_476.png)
+
+![Primary and secondary neutral on card](../assets/components_button_primary_and_secondary_neutral__477.png)
+
+![Secondary with secondary neutral  ](../assets/components_button_secondary_with_secondary_neutr_478.png)
 
 #### Secondary neutral
 
@@ -504,11 +704,25 @@ Use secondary neutral for less important convenience actions, such as copying in
 
 
 
+![Secondary neutral button used for account details](../assets/components_button_secondary_neutral_button_used__479.png)
+
+![Secondary neutral button used in footer buttons](../assets/components_button_secondary_neutral_button_used__480.png)
+
+![Secondary neutral on neutral surface](../assets/components_button_secondary_neutral_on_neutral_s_481.png)
+
+![Secondary on neutral surface](../assets/components_button_secondary_on_neutral_surface_482.png)
+
 ### Sizes
 
 There are three different button sizes, small medium and large, each used for different purposes.
 
 
+
+![Large button](../assets/components_button_large_button_483.png)
+
+![Medium button](../assets/components_button_medium_button_484.png)
+
+![Small button](../assets/components_button_small_button_485.png)
 
 #### Large
 
@@ -518,6 +732,12 @@ It’s used at full width on mobile and auto-width, adjusting to the content on 
 
 
 
+![Large button](../assets/components_button_large_button_486.png)
+
+![Button used as footer](../assets/components_button_button_used_as_footer_487.png)
+
+![Large button used in card](../assets/components_button_large_button_used_in_card_488.png)
+
 #### Medium
 
 The medium button is used for in line content that needs a greater emphasis than small button or that simply needs to be kept in line with other content on the same line — For example in the nav where you have a 40px close or back icon button.
@@ -526,6 +746,12 @@ Medium supports icon left and right, and single or double avatars and wraps to t
 
 
 
+![Medium button with different accessory types](../assets/components_button_medium_button_with_different_a_489.png)
+
+![medium button in header nav](../assets/components_button_medium_button_in_header_nav_490.png)
+
+![Medium button in list item](../assets/components_button_medium_button_in_list_item_491.png)
+
 #### Small
 
 The small button is used for smaller in line content such as list items.
@@ -533,6 +759,12 @@ The small button is used for smaller in line content such as list items.
 Small button supports icon left and right and wraps to the content.
 
 
+
+![Small button with different accessory types](../assets/components_button_small_button_with_different_ac_492.png)
+
+![small button in list item](../assets/components_button_small_button_in_list_item_493.png)
+
+![Small button in footer](../assets/components_button_small_button_in_footer_494.png)
 
 ### Accessories
 
@@ -548,11 +780,19 @@ Small button supports icon left and right and wraps to the content.
 
 
 
+![Icon left and right example](../assets/components_button_icon_left_and_right_example_495.png)
+
+![button with wrong icons left and right](../assets/components_button_button_with_wrong_icons_left_a_496.png)
+
 #### Avatars
 
 
 
 
+
+![Double diagonal avatar on medium button](../assets/components_button_double_diagonal_avatar_on_medi_497.png)
+
+![Avatar on right of medium button](../assets/components_button_avatar_on_right_of_medium_butt_498.png)
 
 ### Interaction
 
@@ -614,6 +854,18 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 
 
 
+![Neutral critical banner with a calm and factual tone](../assets/components_button_neutral_critical_banner_with_a_499.png)
+
+![Neutral critical banner with vague language](../assets/components_button_neutral_critical_banner_with_v_500.png)
+
+![A button that reads 'Log in'.](../assets/components_button_a_button_that_reads__log_in_501.png)
+
+![A button that reads 'I want to log in to my account'.](../assets/components_button_a_button_that_reads__i_want_to_502.png)
+
+![A button that reads 'Freeze card'.](../assets/components_button_a_button_that_reads__freeze_ca_503.png)
+
+![A button that reads 'Freeze my card'.](../assets/components_button_a_button_that_reads__freeze_my_504.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -628,11 +880,17 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 
 Card is a container that groups related content.
 
+![Card](../assets/components_card_card_505.png)
+
 ### Types
 
 There are 2 different types of card — Small and large.
 
 
+
+![Small card](../assets/components_card_small_card_506.png)
+
+![Large card](../assets/components_card_large_card_507.png)
 
 ### When to use
 
@@ -644,17 +902,25 @@ It's also useful for presenting related details about a specific topic.
 
 
 
+![Multiple cards working in harmony](../assets/components_card_multiple_cards_working_in_harm_508.png)
+
+![Cards being used for contact information](../assets/components_card_cards_being_used_for_contact_i_509.png)
+
 #### Small card
 
 Use to display related information on a single subject.
 
 
 
+![Small cards — balance card, alert and nudge](../assets/components_card_small_cards___balance_card__al_510.png)
+
 #### Large card
 
 Large cards are best suited for situations where you need to clearly highlight content, like in the case of promotions. 
 
 
+
+![Promo card](../assets/components_card_promo_card_511.png)
 
 ### Best practices
 
@@ -664,11 +930,19 @@ Arrange elements such as text and images on the cards in a manner that effective
 
 
 
+![Promo card in default state](../assets/components_card_promo_card_in_default_state_512.png)
+
+![Card used on existing components](../assets/components_card_card_used_on_existing_componen_513.png)
+
 ### Placement
 
 
 
 
+
+![Balance cards](../assets/components_card_balance_cards_514.png)
+
+![Cards next to related text or images](../assets/components_card_cards_next_to_related_text_or__515.png)
 
 ### Interaction
 
@@ -676,11 +950,25 @@ The card component has optional states based on if the card is clickable or stat
 
 
 
+![Card states](../assets/components_card_card_states_516.png)
+
+![Card — action alert](../assets/components_card_card___action_alert_517.png)
+
+![Card — nudge](../assets/components_card_card___nudge_518.png)
+
+![Card with cross for dismiss](../assets/components_card_card_with_cross_for_dismiss_519.png)
+
+![Card — button accessories](../assets/components_card_card___button_accessories_520.png)
+
 ### Accessibility
 
 The card component scales in height with scaled text.
 
 
+
+![Card with dynamic type](../assets/components_card_card_with_dynamic_type_521.png)
+
+![Card with image over text](../assets/components_card_card_with_image_over_text_522.png)
 
 ### Availability
 
@@ -695,6 +983,8 @@ The card component scales in height with scaled text.
 ## Carousel Cards
 
 The carousel cards allow us to display different types of information in a carousel pattern.
+
+![Card carousel types](../assets/components_carousel-cards_card_carousel_types_523.png)
 
 ### When to use
 
@@ -711,6 +1001,16 @@ Card types should never be mixed within the same pattern.
 
 
 
+![Image carousel card](../assets/components_carousel-cards_image_carousel_card_524.png)
+
+![White stepper card](../assets/components_carousel-cards_white_stepper_card_525.png)
+
+![Neutral stepper card](../assets/components_carousel-cards_neutral_stepper_card_526.png)
+
+![Video card](../assets/components_carousel-cards_video_card_527.png)
+
+![Quote card](../assets/components_carousel-cards_quote_card_528.png)
+
 ### Accessibility
 
 To ensure maximum accessibility for our users, use plain language in accordance with our tone of voice for an inclusive reading experience. The text should be precise and informative. Ensure that images are accompanied by appropriate alternative text (alt text) for screen readers. An ideal alt text is descriptive and concise to convey the meaning and purpose of the image to users who may not be able to see it.
@@ -722,6 +1022,8 @@ To ensure maximum accessibility for our users, use plain language in accordance 
 ## Checkbox
 
 Checkboxes let users select zero, one, or multiple items from a list.
+
+![Checkbox](../assets/components_checkbox_checkbox_529.png)
 
 ### When to use
 
@@ -743,6 +1045,8 @@ Checkboxes let users select zero, one, or multiple items from a list.
 
 Chips allow users to filter content or make a choice from a set of options within a compact area.
 
+![Chip](../assets/components_chip_chip_530.png)
+
 ### Types of chip
 
 You can use chips in 2 different ways — as choice chips, or as filter chips. 
@@ -757,6 +1061,8 @@ Choice chips let users choose a single chip from a set.
 
 
 
+![Choice chips](../assets/components_chip_choice_chips_531.png)
+
 #### Interaction
 
 Best practice for choice chips is to have one chip pre-selected by default, like radio buttons. This should be the most desired or most frequently selected chip.
@@ -770,6 +1076,8 @@ Then, if the user wants to make a different selection, they can tap or click on 
 Filter chips let users add filters to content by selecting one or more chips from a set.
 
 
+
+![Filter chips](../assets/components_chip_filter_chips_532.png)
 
 #### Interaction
 
@@ -817,6 +1125,10 @@ Chip text should:
 
 
 
+![Chips with single words.](../assets/components_chip_chips_with_single_words_533.png)
+
+![Chips with inconsistent text.](../assets/components_chip_chips_with_inconsistent_text_534.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -831,6 +1143,8 @@ Chip text should:
 
 A circular button lets the user perform an action with a tap or a click.
 
+![Circular button](../assets/components_circular-button_circular_button_535.png)
+
 ### When to use
 
 
@@ -843,6 +1157,10 @@ Types are designed to emphasise the nature of the action.
 
 
 
+![Circular buton default state](../assets/components_circular-button_circular_buton_default_state_536.png)
+
+![Circular button negative state](../assets/components_circular-button_circular_button_negative_state_537.png)
+
 ### Priority
 
 Priorities set a visual hierarchy amongst the buttons displayed on the screen to help more important buttons to take precedence over others.
@@ -851,11 +1169,19 @@ Circular buttons support 2 different priorities that can be combined with 2 diff
 
 
 
+![Circular button primary state](../assets/components_circular-button_circular_button_primary_state_538.png)
+
+![Circular button secondary state](../assets/components_circular-button_circular_button_secondary_stat_539.png)
+
 ### Best practice
 
 
 
 
+
+![Balance page with circular button actions](../assets/components_circular-button_balance_page_with_circular_but_540.png)
+
+![Standalone circular button](../assets/components_circular-button_standalone_circular_button_541.png)
 
 ### Interaction
 
@@ -895,6 +1221,14 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 
 
 
+![Neutral critical banner with a calm and factual tone](../assets/components_button_neutral_critical_banner_with_a_499.png)
+
+![Neutral critical banner with vague language](../assets/components_button_neutral_critical_banner_with_v_500.png)
+
+![Circular button with 'send' label](../assets/components_circular-button_circular_button_with__send__la_542.png)
+
+![Circular button with 'give me money' as label](../assets/components_circular-button_circular_button_with__give_me__543.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -908,6 +1242,8 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 ## Compact date input
 
 A compact date input lets people enter a short date within a form.
+
+![Compact date input](../assets/components_compact-date-input_compact_date_input_544.png)
 
 ### When to use
 
@@ -959,6 +1295,8 @@ Description copy should:
 
 The copy block is used to explain our features, benefits or service offering to our users.
 
+![An example of our copy block](../assets/components_copy-block_an_example_of_our_copy_block_545.png)
+
 ### When to use
 
 Our copy blocks are used with the vast majority of our marketing patterns within the system. They are there to allow us to explain our services, benefits and features to our users, usually paired with a button. The block comes in multiple sizes and with a centred or left aligned layout.
@@ -967,11 +1305,21 @@ Our copy blocks are used with the vast majority of our marketing patterns within
 
 
 
+![An example of our left aligned copy block](../assets/components_copy-block_an_example_of_our_left_aligned_546.png)
+
+![An example of our centrally aligned copy block](../assets/components_copy-block_an_example_of_our_centrally_al_547.png)
+
+![a copy block with extended max width](../assets/components_copy-block_a_copy_block_with_extended_max_548.png)
+
+![A copy block with right aligned text](../assets/components_copy-block_a_copy_block_with_right_aligne_549.png)
+
 ---
 
 ## Critical banner
 
 Critical banner is used to inform users on urgent, high-priority issues that may significantly impact, their access, security, or data.
+
+![Critical banner](../assets/components_critical-banner_critical_banner_550.png)
 
 ### When to use 
 
@@ -980,6 +1328,10 @@ Critical banner are used to deliver messages that affects the overall user's acc
 
 
 
+
+![Critical banner with warning sentiment](../assets/components_critical-banner_critical_banner_with_warning_s_551.png)
+
+![Critical banner with Warning sentiment](../assets/components_critical-banner_critical_banner_with_warning_s_552.png)
 
 ### Types & Usage
 
@@ -995,6 +1347,12 @@ Use an error to let users know when something has gone wrong and needs their imm
 
 
 
+![Critical banner with Error sentiment](../assets/components_critical-banner_critical_banner_with_error_sen_553.png)
+
+![Critical banner with Error sentiment](../assets/components_critical-banner_critical_banner_with_error_sen_554.png)
+
+![Critical banner with Error sentiment](../assets/components_critical-banner_critical_banner_with_error_sen_555.png)
+
 #### Warning
 
 Use a warning when you need to alert customers to potential issues that could impact the entire state of their account.
@@ -1003,11 +1361,23 @@ These messages are preventative — they help customers take action to avoid neg
 
 
 
+![Critical Banner with warning sentiment](../assets/components_critical-banner_critical_banner_with_warning_s_556.png)
+
+![Critical banner with warning sentiment](../assets/components_critical-banner_critical_banner_with_warning_s_557.png)
+
+![Critical banner with warning sentiment](../assets/components_critical-banner_critical_banner_with_warning_s_558.png)
+
 #### Neutral
 
 Use a neutral prompt when you want to provide information or give a non-destructible update about the overall account. e.g. Account has moved from a previously suspended to an in-review state.
 
 
+
+![Critical banner with neutral sentiment](../assets/components_critical-banner_critical_banner_with_neutral_s_559.png)
+
+![Critical banner with neutral sentiment](../assets/components_critical-banner_critical_banner_with_neutral_s_560.png)
+
+![Critical banner with neutral sentiment](../assets/components_critical-banner_critical_banner_with_neutral_s_561.png)
 
 ### Placement
 
@@ -1016,6 +1386,10 @@ Critical banner should always appear fixed at the very top of each screen, above
 
 
 
+
+![Critical banner placement top of header in mobile](../assets/components_critical-banner_critical_banner_placement_top__562.png)
+
+![Critical banner placed above the navigation on web](../assets/components_critical-banner_critical_banner_placed_above_t_563.png)
 
 ### Interaction
 
@@ -1078,6 +1452,10 @@ The CTA should start with a verb that describes the specific task or the place t
 
 
 
+![Critical banner with error sentiment](../assets/components_critical-banner_critical_banner_with_error_sen_564.png)
+
+![Critical banner with erro sentiment](../assets/components_critical-banner_critical_banner_with_erro_sent_565.png)
+
 #### Warning
 
 A warning banner alerts the user to a potential issue that could impact their account if they don't act. Use every part of the banner to make the risk clear and the next step obvious.
@@ -1097,6 +1475,10 @@ The CTA should start with a verb that describes the specific task. Avoid generic
 
 
 
+
+![A warning critical banner with a clear deadline](../assets/components_critical-banner_a_warning_critical_banner_with_566.png)
+
+![A warning critical banner without a time frame.](../assets/components_critical-banner_a_warning_critical_banner_with_567.png)
 
 #### Neutral
 
@@ -1120,6 +1502,10 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 
 
 
+![Neutral critical banner with a calm and factual tone](../assets/components_button_neutral_critical_banner_with_a_499.png)
+
+![Neutral critical banner with vague language](../assets/components_button_neutral_critical_banner_with_v_500.png)
+
 ### Availability
 
 | Platform | Available |
@@ -1133,6 +1519,8 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 ## Date input
 
 A date input lets people enter a date within a form.
+
+![Date input](../assets/components_date-input_date_input_568.png)
 
 ### When to use
 
@@ -1184,6 +1572,8 @@ Description copy should:
 
 Use date picker to let users pick a date from a calendar.
 
+![Date picker component](../assets/components_date-picker_date_picker_component_569.png)
+
 ### When to use
 
 
@@ -1212,6 +1602,8 @@ Use date picker to let users pick a date from a calendar.
 
 Dividers are used to create stronger hierarchy between contents, sub-section, and sections.
 
+![Activity page and how to page](../assets/components_divider_activity_page_and_how_to_page_570.png)
+
 ### Types
 
 #### Section
@@ -1222,6 +1614,12 @@ Section dividers are used to separate completely unrelated sections of content.
 
 
 
+![Payments screen](../assets/components_divider_payments_screen_571.png)
+
+![Section divider between lists](../assets/components_divider_section_divider_between_lists_572.png)
+
+![Section divider between list items with indentation](../assets/components_divider_section_divider_between_list_i_573.png)
+
 #### Sub-section
 
 Sub-section dividers are used to separate related pieces of content that require additional hierarchy. 
@@ -1230,6 +1628,12 @@ Sub-section dividers are used to separate related pieces of content that require
 
 
 
+![Group divider on help centre](../assets/components_divider_group_divider_on_help_centre_574.png)
+
+![Group divider between content sections on help centre](../assets/components_divider_group_divider_between_content__575.png)
+
+![Group divider before section header with underline](../assets/components_divider_group_divider_before_section_h_576.png)
+
 #### Content
 
 Content dividers are used to break down a specific piece of content or information. They help to visually separate distinct parts, highlight key figures, or introduce summaries within a single content block.
@@ -1237,6 +1641,12 @@ Content dividers are used to break down a specific piece of content or informati
 
 
 
+
+![Content divider in auto conversion detail review](../assets/components_divider_content_divider_in_auto_conver_577.png)
+
+![Content divider in transaction receipt](../assets/components_divider_content_divider_in_transaction_578.png)
+
+![Content divider in incorrectly used in paragraph sections](../assets/components_divider_content_divider_in_incorrectly_579.png)
 
 ### Availability
 
@@ -1251,6 +1661,8 @@ Content dividers are used to break down a specific piece of content or informati
 ## Dropdown
 
 A dropdown (sometimes called a select) lets users choose a single item from a dropdown list.
+
+![Dropdown](../assets/components_dropdown_dropdown_580.png)
 
 ### When to use
 
@@ -1274,6 +1686,8 @@ Expressive money input is a currency input used exclusively for money movement f
 
 *This is a contributed component.*
 
+![Wise Calculator with money input](../assets/components_expressive-money-input_wise_calculator_with_money_inp_581.png)
+
 ### When to use
 
 Use within money movement flows such as send, receive, convert and add. 
@@ -1281,6 +1695,10 @@ Use within money movement flows such as send, receive, convert and add.
 
 
 
+
+![Expressive money input in top up flow](../assets/components_expressive-money-input_expressive_money_input_in_top__582.png)
+
+![Expressive money input in account creation flow](../assets/components_expressive-money-input_expressive_money_input_in_acco_583.png)
 
 ### How to use
 
@@ -1290,11 +1708,15 @@ Use balance details on the source target currency in the empty state of the comp
 
 
 
+![Expressive money input on calculator with balance details](../assets/components_expressive-money-input_expressive_money_input_on_calc_584.png)
+
 #### Prompts
 
 Use an error prompt to let the user know why they can’t perform an action.
 
 
+
+![Expressive money input with error](../assets/components_expressive-money-input_expressive_money_input_with_er_585.png)
 
 ### Interaction
 
@@ -1314,11 +1736,15 @@ The input value colour changes between the empty and filled states.
 
 An icon button lets the user perform an action with a tap or a click.
 
+![Promo card with icon button](../assets/components_icon-button_promo_card_with_icon_button_586.png)
+
 ### Sizes
 
 Supported sizes are 16, 24, 32, 40, 48, 56,  and 72.
 
 
+
+![Icon button in different sizes](../assets/components_icon-button_icon_button_in_different_sizes_587.png)
 
 ### Priorities
 
@@ -1328,11 +1754,21 @@ Icon buttons support 3 different priorities that can be combined with 3 differen
 
 
 
+![Icon button primary](../assets/components_icon-button_icon_button_primary_588.png)
+
+![Icon button secondary](../assets/components_icon-button_icon_button_secondary_589.png)
+
+![Icon button tertiary](../assets/components_icon-button_icon_button_tertiary_590.png)
+
+![Icon button minimal](../assets/components_icon-button_icon_button_minimal_591.png)
+
 #### Primary
 
 Use primary for the most important action to move forward in a flow, acknowledge and dismiss, or finish a task.
 
 
+
+![Primary icon button on promo card](../assets/components_icon-button_primary_icon_button_on_promo_c_592.png)
 
 #### Secondary
 
@@ -1340,11 +1776,15 @@ Use secondary for providing alternatives to the primary action, or when none of 
 
 
 
+![Secondary icon button on card screen](../assets/components_icon-button_secondary_icon_button_on_card__593.png)
+
 #### Tertiary
 
 Used for controls and views, such as back button or a currency selection.
 
 
+
+![Tertiary icon button on balances screen](../assets/components_icon-button_tertiary_icon_button_on_balanc_594.png)
 
 #### Minimal
 
@@ -1352,11 +1792,17 @@ Used for dismissive actions like dismiss, or skip. As well as supplementary cont
 
 
 
+![Minimal icon button on list item](../assets/components_icon-button_minimal_icon_button_on_list_it_595.png)
+
 ### Types
 
 Types are designed to emphasise the nature of the action.
 
 
+
+![Icon button default](../assets/components_icon-button_icon_button_default_596.png)
+
+![Negative icon button](../assets/components_icon-button_negative_icon_button_597.png)
 
 ### Best practices
 
@@ -1364,11 +1810,43 @@ Icon buttons work best if they are recognisable without accompanying copy.
 
 
 
+![Negative icon button with bin icon](../assets/components_icon-button_negative_icon_button_with_bin__598.png)
+
+![Primary icon button with car icon](../assets/components_icon-button_primary_icon_button_with_car_i_599.png)
+
 ### Icon usage
 
 Different icons are used across different use cases. Here are some of our most common use cases
 
 
+
+![Send icon](../assets/components_icon-button_send_icon_600.png)
+
+![Add icon](../assets/components_icon-button_add_icon_601.png)
+
+![Convert icon](../assets/components_icon-button_convert_icon_602.png)
+
+![Receive / request icon](../assets/components_icon-button_receive___request_icon_603.png)
+
+![Move icon](../assets/components_icon-button_move_icon_604.png)
+
+![Upload icon](../assets/components_icon-button_upload_icon_605.png)
+
+![Back icon](../assets/components_icon-button_back_icon_606.png)
+
+![Next icon](../assets/components_icon-button_next_icon_607.png)
+
+![Close icon](../assets/components_icon-button_close_icon_608.png)
+
+![Schedule icon](../assets/components_icon-button_schedule_icon_609.png)
+
+![Tooltip icon](../assets/components_icon-button_tooltip_icon_610.png)
+
+![Copy icon](../assets/components_icon-button_copy_icon_611.png)
+
+![Delete icon](../assets/components_icon-button_delete_icon_612.png)
+
+![Switch icon](../assets/components_icon-button_switch_icon_613.png)
 
 ### Availability
 
@@ -1384,11 +1862,21 @@ Different icons are used across different use cases. Here are some of our most c
 
 We use a range of different image ratios across the editorial patterns.
 
+![Different image ratios](../assets/components_image-ratios_different_image_ratios_614.png)
+
 ### Image scale
 
 We use a set of image ratios throughout the editorial patterns to ensure that our product and lifestyle photography is correctly displayed.
 
 
+
+![A 16:9 ratio image](../assets/components_image-ratios_a_16_9_ratio_image_615.png)
+
+![A 3:4 image ratio](../assets/components_image-ratios_a_3_4_image_ratio_616.png)
+
+![A 4:3 image ratio](../assets/components_image-ratios_a_4_3_image_ratio_617.png)
+
+![A 1:1 image ratio](../assets/components_image-ratios_a_1_1_image_ratio_618.png)
 
 ### Accessibility
 
@@ -1403,6 +1891,8 @@ To ensure maximum accessibility for our users, use plain language in accordance 
 An info prompt is a message that appears in a specific part of the screen. It relates directly to a section or multiple components. 
 They help the user stay informed, fix something, or get more out of what they’re doing.
 
+![Info prompt hero image](../assets/components_info-prompt_info_prompt_hero_image_619.png)
+
 ### When to use
 
 Use an info prompt if your message is about one specific part of a screen or the user's current activity. Use them to give more context, confirm success, explain a problem, or highlight a benefit related to what the user is doing.
@@ -1410,6 +1900,8 @@ Use an info prompt if your message is about one specific part of a screen or the
 
 
 
+
+![Error info prompt example within a form](../assets/components_info-prompt_error_info_prompt_example_with_620.png)
 
 ### Types & Usage
 
@@ -1423,6 +1915,12 @@ Use an error to let users know when something has gone wrong and needs their att
 
 
 
+![Error info prompt example within a form](../assets/components_info-prompt_error_info_prompt_example_with_621.png)
+
+![Error info prompt example within the calculator page](../assets/components_info-prompt_error_info_prompt_example_with_622.png)
+
+![Error info prompt example within the calculator page](../assets/components_info-prompt_error_info_prompt_example_with_623.png)
+
 #### Warning
 
 Use a warning when you need to alert users to potential issues that could impact their experience. 
@@ -1430,11 +1928,23 @@ These messages are preventative — they help customers take action to avoid neg
 
 
 
+![Warning info prompt within a page.](../assets/components_info-prompt_warning_info_prompt_within_a_p_624.png)
+
+![Warning info prompt within a recipient form.](../assets/components_info-prompt_warning_info_prompt_within_a_r_625.png)
+
+![Warning info prompt within a recipient form.](../assets/components_info-prompt_warning_info_prompt_within_a_r_626.png)
+
 #### Neutral
 
 Use a neutral prompt when you want to guide the user or give additional context. These messages are informative rather than corrective.
 
 
+
+![Neutral info prompt within a cards page](../assets/components_info-prompt_neutral_info_prompt_within_a_c_627.png)
+
+![Neutral info prompt within a transactions page](../assets/components_info-prompt_neutral_info_prompt_within_a_t_628.png)
+
+![Neutral info prompt within the calculator page](../assets/components_info-prompt_neutral_info_prompt_within_the_629.png)
 
 #### Success
 
@@ -1443,6 +1953,12 @@ Use a success prompt to communicate that an action or process was completed succ
 This prompt's main job is to confirm success, but it can also guide the user to the next logical step — especially if that helps them benefit from what they just did.
 
 
+
+![Success info prompt within in a form](../assets/components_info-prompt_success_info_prompt_within_in__630.png)
+
+![Success info prompt within in a card section.](../assets/components_info-prompt_success_info_prompt_within_in__631.png)
+
+![Success info prompt within in a card section.](../assets/components_info-prompt_success_info_prompt_within_in__632.png)
 
 #### Proposition
 
@@ -1453,6 +1969,12 @@ Unlike action prompts which drop users straight into a flow to start a task, inf
 Only surface a proposition if it’s relevant to what the user is doing. If we show too many, or they feel off-topic, we risk undermining trust and the experience feeling like spam.
 
 
+
+![Proposition info prompt in a balance page](../assets/components_info-prompt_proposition_info_prompt_in_a_b_633.png)
+
+![Proposition info prompt in a card section](../assets/components_info-prompt_proposition_info_prompt_in_a_c_634.png)
+
+![Proposition info prompt in a form](../assets/components_info-prompt_proposition_info_prompt_in_a_f_635.png)
 
 ### Placement
 
@@ -1486,6 +2008,10 @@ On web, the link is also clickable and underlined, so it works for click-based i
 
 
 
+![Info prompt with link within a card section](../assets/components_info-prompt_info_prompt_with_link_within_a_636.png)
+
+![Info prompt with link within a calculator section](../assets/components_info-prompt_info_prompt_with_link_within_a_637.png)
+
 ### Writing an info prompt
 
 All info prompts should:
@@ -1514,6 +2040,10 @@ With any error message, clarity is key. Something has gone wrong and so the job 
 
 
 
+![Error info prompt example within a form](../assets/components_info-prompt_error_info_prompt_example_with_638.png)
+
+![Error info prompt example within a form](../assets/components_info-prompt_error_info_prompt_example_with_639.png)
+
 #### Warning
 
 We’re highlighting something that could negatively impact the customer’s experience.
@@ -1524,6 +2054,10 @@ It’s important we communicate the issue clearly, explain why it matters and ho
 
 
 
+![Warning info prompt within a card section.](../assets/components_info-prompt_warning_info_prompt_within_a_c_640.png)
+
+![Warning info prompt within a card section.](../assets/components_info-prompt_warning_info_prompt_within_a_c_641.png)
+
 #### Success
 
 You’re communicating good news, so don’t be afraid to add energy and colour to the copy. But as with other info prompts, keep this concise — quick positive reinforcement rather than lengthy congratulations. 
@@ -1531,6 +2065,10 @@ You’re communicating good news, so don’t be afraid to add energy and colour 
 
 
 
+
+![Success info prompt within in a card section.](../assets/components_info-prompt_success_info_prompt_within_in__642.png)
+
+![Success info prompt within in a card section.](../assets/components_info-prompt_success_info_prompt_within_in__643.png)
 
 #### Neutral
 
@@ -1541,6 +2079,10 @@ Focus on providing clear, relevant information that helps the customer understan
 
 
 
+
+![Neutral info prompt within a cards page](../assets/components_info-prompt_neutral_info_prompt_within_a_c_644.png)
+
+![Neutral info prompt within a cards page](../assets/components_info-prompt_neutral_info_prompt_within_a_c_645.png)
 
 #### Propositions 
 
@@ -1556,6 +2098,10 @@ Above all else, you want the user to be able to understand the benefit to them w
 
 
 
+![Proposition info prompt in a card section](../assets/components_info-prompt_proposition_info_prompt_in_a_c_646.png)
+
+![Proposition info prompt in a card section](../assets/components_info-prompt_proposition_info_prompt_in_a_c_647.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -1570,11 +2116,15 @@ Above all else, you want the user to be able to understand the benefit to them w
 
 Inline prompts appear alongside a specific component on the screen. They help the user stay informed, fix something, or get more out of what they’re doing.
 
+![Inline prompt hero image showcasing an inline prompt within an input.](../assets/components_inline-prompt_inline_prompt_hero_image_showc_648.png)
+
 ### When to use
 
 
 
 
+
+![Inline prompt within a password input.](../assets/components_inline-prompt_inline_prompt_within_a_passwor_649.png)
 
 ### Types & Usage
 
@@ -1588,12 +2138,24 @@ Use an error to let users know when something has gone wrong and needs their att
 
 
 
+![Inline prompt within a dropdown component.](../assets/components_inline-prompt_inline_prompt_within_a_dropdow_650.png)
+
+![Error inline prompt within a password input.](../assets/components_inline-prompt_error_inline_prompt_within_a_p_651.png)
+
+![Error inline prompt within a dropdown component ](../assets/components_inline-prompt_error_inline_prompt_within_a_d_652.png)
+
 #### Warning
 
 Use a warning when you need to alert users to potential issues that could impact their experience. 
 These messages are preventative — they help users take action to avoid negative outcomes. 
 
 
+
+![Warning inline prompt within a password input.](../assets/components_inline-prompt_warning_inline_prompt_within_a_653.png)
+
+![Warning inline prompt within a upload input.](../assets/components_inline-prompt_warning_inline_prompt_within_a_654.png)
+
+![Warning inline prompt within a upload input.](../assets/components_inline-prompt_warning_inline_prompt_within_a_655.png)
 
 #### Neutral
 
@@ -1603,6 +2165,10 @@ Neutral prompts can transition to a success or error message when used in a form
 
 
 
+![Neutral inline prompt within a text input.](../assets/components_inline-prompt_neutral_inline_prompt_within_a_656.png)
+
+![Two text inputs with neutral and error inline prompts.](../assets/components_inline-prompt_two_text_inputs_with_neutral_a_657.png)
+
 #### Success
 
 Use a success prompt to communicate that an action or process was completed successfully. These provide positive reinforcement and closure for the user.
@@ -1610,6 +2176,14 @@ Use a success prompt to communicate that an action or process was completed succ
 You can use a status icon alongside the message — just make sure to use one relevant to the message.
 
 
+
+![A password creation interface showing two input fields with a green success message stating "Passwords match."](../assets/components_inline-prompt_a_password_creation_interface__658.png)
+
+![Password form showing a success inline prompt stating "Passwords match.](../assets/components_inline-prompt_password_form_showing_a_succes_659.png)
+
+![Fee calculation card showing a success inline prompt stating "You’ve saved 10GBP" with a smiley face icon](../assets/components_inline-prompt_fee_calculation_card_showing_a_660.png)
+
+![A payment method card for a bank transfer featuring a lightning icon in a success inline prompt that reads "Arrives in seconds."](../assets/components_inline-prompt_a_payment_method_card_for_a_ba_661.png)
 
 #### Proposition
 
@@ -1620,6 +2194,20 @@ These should only appear in list items. The feature or benefit should be clearly
 Only include a proposition if it’s relevant to what the user is already doing. If we show too many of these prompts, or they feel off-topic, we risk undermining trust and the experience feeling like spam.
 
 
+
+![Choose account" interface with a proposition inline prompt stating "Save 20% on fees."](../assets/components_inline-prompt_choose_account__interface_with_662.png)
+
+![Reward card with a proposition inline prompt stating "Earn 50GBP per referral."](../assets/components_inline-prompt_reward_card_with_a_proposition_663.png)
+
+![Amount entry field with a proposition inline prompt stating "Earn a return on your USD."](../assets/components_inline-prompt_amount_entry_field_with_a_prop_664.png)
+
+![Payment card with a proposition inline prompt and lightning icon stating "Arrives in seconds."](../assets/components_inline-prompt_payment_card_with_a_propositio_665.png)
+
+![Payment card with a proposition inline prompt and smiley icon stating "Arrives in seconds."](../assets/components_inline-prompt_payment_card_with_a_propositio_666.png)
+
+![Payment card with a proposition inline prompt and price tag icon stating "Arrives in seconds."](../assets/components_inline-prompt_payment_card_with_a_propositio_667.png)
+
+![Payment card with a proposition inline prompt stating "Compare our fees with others."](../assets/components_inline-prompt_payment_card_with_a_propositio_668.png)
 
 ### Placement
 
@@ -1633,6 +2221,10 @@ For components that are disabled, the inline prompt will be muted, and displayed
 
 
 
+![List item with a muted inline prompt with a blocked icon and validation copy containing a text link.](../assets/components_inline-prompt_list_item_with_a_muted_inline__669.png)
+
+![List item with a muted inline prompt with a blocked icon and validation copy without a text link.](../assets/components_inline-prompt_list_item_with_a_muted_inline__670.png)
+
 ### Interaction
 
 #### Links
@@ -1642,6 +2234,8 @@ Avoid adding a link to an inline prompt. These messages should help users comple
 Inline propositions should never include a link. This is because they’re designed to supplement an action in a list item with an offer or benefit. 
 
 
+
+![List item showing Wise GBP balance featuring an error inline prompt stating "Only 260.33 GBP available — add money."](../assets/components_inline-prompt_list_item_showing_wise_gbp_bal_671.png)
 
 #### Real-time checks
 
@@ -1679,6 +2273,10 @@ With any error message, be clear. Something has gone wrong and so the job of the
 
 
 
+![Password input field showing an error message: “Wrong password. Please try again.”](../assets/components_inline-prompt_password_input_field_showing_a_672.png)
+
+![Password input field showing a generic error message: “Something has gone wrong. Try again.”](../assets/components_inline-prompt_password_input_field_showing_a_673.png)
+
 #### Warning
 
 Warnings help the user prevent future issues. They need to be clear and concise. 
@@ -1693,6 +2291,10 @@ Use an impartial tone and try to distill your warning down to two parts:
 
 
 
+![Password field with a warning advising the user to add a number or special character for a safer password.](../assets/components_inline-prompt_password_field_with_a_warning__674.png)
+
+![Password field with a warning that only states the password is weak.](../assets/components_inline-prompt_password_field_with_a_warning__675.png)
+
 #### Success
 
 Although you're delivering good news, keep your message concise. This prompt only relates to one component, so avoid an over the top celebratory tone.
@@ -1701,6 +2303,10 @@ Although you're delivering good news, keep your message concise. This prompt onl
 
 
 
+![Concise "Passwords match" success prompt in a password input](../assets/components_inline-prompt_concise__passwords_match__succ_676.png)
+
+![Password field featuring a wordy, discouraged success inline prompt stating "Amazing! Your passwords are an exact match."](../assets/components_inline-prompt_password_field_featuring_a_wor_677.png)
+
 #### Neutral
 
 Keep the tone factual and straightforward. Focus on providing clear, relevant information that helps the user understand their situation or options. We don’t want to overwhelm them with unnecessary detail.
@@ -1708,6 +2314,10 @@ Keep the tone factual and straightforward. Focus on providing clear, relevant in
 
 
 
+
+![List item with neutral inline prompt](../assets/components_inline-prompt_list_item_with_neutral_inline__678.png)
+
+![List item with neutral inline prompt](../assets/components_inline-prompt_list_item_with_neutral_inline__679.png)
 
 #### Proposition
 
@@ -1720,6 +2330,10 @@ If the feature is genuinely helpful, including the benefit in plain English will
 
 
 
+
+![Referrals and rewards list item with a proposition inline prompt stating "Earn 50 GBP per referral."](../assets/components_inline-prompt_referrals_and_rewards_list_ite_680.png)
+
+![Money input showing GBP with amount 350.00 and a proposition prompt.](../assets/components_inline-prompt_money_input_showing_gbp_with_a_681.png)
 
 ### Availability
 
@@ -1734,6 +2348,8 @@ If the feature is genuinely helpful, including the benefit in plain English will
 ## Instruction
 
 Instructions are a list of bullet points marked as positive and negative.
+
+![Instruction](../assets/components_instruction_instruction_682.png)
 
 ### When to use
 
@@ -1772,6 +2388,8 @@ Instructions are a list of bullet points marked as positive and negative.
 
 Button item is used when an action is triggered by the list item.
 
+![Example screen with button items](../assets/components_list-item---button_example_screen_with_button_ite_683.png)
+
 ### Usage
 
 List items with buttons can be fully or partially interactive. Buttons should be used to trigger n action — for example ‘change/add’ being the action on a payment method list item.
@@ -1781,6 +2399,10 @@ The secondary priority is the default for list item but can be changed to tertia
 
 
 
+
+![A button item used to Send](../assets/components_list-item---button_a_button_item_used_to_send_684.png)
+
+![A button item used to continue in a flow](../assets/components_list-item---button_a_button_item_used_to_continue_685.png)
 
 ### Availability
 
@@ -1797,11 +2419,17 @@ The secondary priority is the default for list item but can be changed to tertia
 
 Checkbox item allows users to select multiple items from a mutually exclusive list of options.
 
+![Checkbox Item example](../assets/components_list-item---checkbox_checkbox_item_example_686.png)
+
 ### Usage
 
 
 
 
+
+![Checkbox items with multiple selected](../assets/components_list-item---checkbox_checkbox_items_with_multiple_s_687.png)
+
+![Checkbox Items in a form](../assets/components_list-item---checkbox_checkbox_items_in_a_form_688.png)
 
 ### Availability
 
@@ -1818,6 +2446,8 @@ Checkbox item allows users to select multiple items from a mutually exclusive li
 
 Icon button item is used to emphasise the action or as a secondary isolated action on the item.
 
+![Example of Icon Button items](../assets/components_list-item---icon-button_example_of_icon_button_items_689.png)
+
 ### Usage
 
 If the action is separate from the main list item, the button can be partially interactive. For example when it's being used:
@@ -1829,6 +2459,16 @@ If the action is separate from the main list item, the button can be partially i
 
 
 
+
+![List item with tooltip](../assets/components_list-item---icon-button_list_item_with_tooltip_690.png)
+
+![List item with edit](../assets/components_list-item---icon-button_list_item_with_edit_691.png)
+
+![List item with add](../assets/components_list-item---icon-button_list_item_with_add_692.png)
+
+![a list item with info icon](../assets/components_list-item---icon-button_a_list_item_with_info_icon_693.png)
+
+![a list item with an umbrella icon](../assets/components_list-item---icon-button_a_list_item_with_an_umbrella_i_694.png)
 
 ### Availability
 
@@ -1845,11 +2485,21 @@ If the action is separate from the main list item, the button can be partially i
 
 Navigation item gives users a rich way to choose between options and navigate to another screen or step in a flow.
 
+![example of a navigation item](../assets/components_list-item---navigation_example_of_a_navigation_item_695.png)
+
 ### Usage
 
 
 
 
+
+![navigation item with multiple options that the user can choose from](../assets/components_list-item---navigation_navigation_item_with_multiple__696.png)
+
+![navigation items that ask the user to choose from options within a form](../assets/components_list-item---navigation_navigation_items_that_ask_the__697.png)
+
+![navigation items that ask the user to choose from options within a form](../assets/components_list-item---navigation_navigation_items_that_ask_the__697.png)
+
+![List items that display temporary information](../assets/components_list-item---navigation_list_items_that_display_tempor_698.png)
 
 ### Availability
 
@@ -1866,6 +2516,8 @@ Navigation item gives users a rich way to choose between options and navigate to
 
 A list item with no action is for information items with no action.
 
+![NoActionItem/hero](../assets/components_list-item---no-action_noactionitem_hero_699.png)
+
 ### Usage
 
 When no accessory is used, the full list item is not interactive and **should not provide an action**. 
@@ -1873,6 +2525,10 @@ When no accessory is used, the full list item is not interactive and **should no
 In-line links can be used within non interactive list items and should be targeted actions with the click/tap area specific to the link itself and not the list item as a whole. See the interaction section below for more info.
 
 
+
+![a no action item with an inline link](../assets/components_list-item---no-action_a_no_action_item_with_an_inlin_700.png)
+
+![A no action item that is fully interactive](../assets/components_list-item---no-action_a_no_action_item_that_is_fully_701.png)
 
 ### Availability
 
@@ -1889,11 +2545,17 @@ In-line links can be used within non interactive list items and should be target
 
 Radio item allows users to select a single item from a mutually exclusive list of options.
 
+![Example of radio items](../assets/components_list-item---radio_example_of_radio_items_702.png)
+
 ### Usage
 
 
 
 
+
+![radio option when only a single option is choosable](../assets/components_list-item---radio_radio_option_when_only_a_singl_703.png)
+
+![radio items in a form](../assets/components_list-item---radio_radio_items_in_a_form_704.png)
 
 ### Availability
 
@@ -1910,11 +2572,17 @@ Radio item allows users to select a single item from a mutually exclusive list o
 
 Switch item allows user to instantly toggle a feature on or off. For example when giving access to receiving notifications.
 
+![Example of a switch Item](../assets/components_list-item---switch_example_of_a_switch_item_705.png)
+
 ### Usage
 
 
 
 
+
+![example of a single binary switch item](../assets/components_list-item---switch_example_of_a_single_binary_swi_706.png)
+
+![example of switch item that should be a checkbox](../assets/components_list-item---switch_example_of_switch_item_that_sh_707.png)
 
 ### Availability
 
@@ -1931,11 +2599,15 @@ Switch item allows user to instantly toggle a feature on or off. For example whe
 
 List items let users review or select options from a dynamic list, adaptable to different use cases.
 
+![List Item hero image (list items on a phone)](../assets/components_list-item_list_item_hero_image__list_ite_708.png)
+
 ### When to use
 
 Use a list item when you want to display different options grouped as a list.
 
 
+
+![A list of list items on account selection page](../assets/components_list-item_a_list_of_list_items_on_accoun_709.png)
 
 ### Types
 
@@ -1948,6 +2620,24 @@ When a list item is non-interactive with no accessory, it should only display in
 
 
 
+![List Item Navigation example](../assets/components_list-item_list_item_navigation_example_710.png)
+
+![ListI tem Checkbox example](../assets/components_list-item_listi_tem_checkbox_example_711.png)
+
+![List Item Radio example](../assets/components_list-item_list_item_radio_example_712.png)
+
+![List Item Icon example](../assets/components_list-item_list_item_icon_example_713.png)
+
+![List Item Switch example](../assets/components_list-item_list_item_switch_example_714.png)
+
+![List Item Button example](../assets/components_list-item_list_item_button_example_715.png)
+
+![List Item Non Interactive example](../assets/components_list-item_list_item_non_interactive_exam_716.png)
+
+![Do example for section headers](../assets/components_list-item_do_example_for_section_headers_717.png)
+
+![Don't example for mixing different types of list items](../assets/components_list-item_don_t_example_for_mixing_diffe_718.png)
+
 ### Avatar
 
 Avatars are optional and are used as a visual aid to the list item. 
@@ -1958,11 +2648,27 @@ Avatars are optional and are used as a visual aid to the list item.
 
 
 
+![example of a list item with an avatar](../assets/components_list-item_example_of_a_list_item_with_an_719.png)
+
+![example of how to use an avatar in a list item](../assets/components_list-item_example_of_how_to_use_an_avata_720.png)
+
+![example of how not to use an illustration in a list item](../assets/components_list-item_example_of_how_not_to_use_an_i_721.png)
+
 #### Avatar sizes
 
 List item supports five different avatar sizes with 48px as the default, other avatars supported include 32px, 40px, 56px and 72px.
 
 
+
+![32px avatar examples](../assets/components_avatar_32px_avatar_examples_414.png)
+
+![40px avatar example](../assets/components_avatar_40px_avatar_example_415.png)
+
+![48px avatar example](../assets/components_avatar_48px_avatar_example_416.png)
+
+![56px avatar example](../assets/components_avatar_56px_avatar_example_417.png)
+
+![72px avatar example](../assets/components_avatar_72px_avatar_example_418.png)
 
 #### Double avatar
 
@@ -1974,11 +2680,27 @@ List item supports five different avatar sizes with 48px as the default, other a
 
 
 
+![diagonal avatar list item example](../assets/components_list-item_diagonal_avatar_list_item_exam_722.png)
+
+![horizontal avatar list item example](../assets/components_list-item_horizontal_avatar_list_item_ex_723.png)
+
+![do example for diagonal avatars](../assets/components_list-item_do_example_for_diagonal_avatar_724.png)
+
+![don't example for double avatars](../assets/components_list-item_don_t_example_for_double_avata_725.png)
+
 ### Prompt
 
 There are 4 different sentiment types for the inline prompt — neutral, positive, warning and negative. 
 
 
+
+![neutral prompt example](../assets/components_list-item_neutral_prompt_example_726.png)
+
+![positive prompt example](../assets/components_list-item_positive_prompt_example_727.png)
+
+![warning prompt example](../assets/components_list-item_warning_prompt_example_728.png)
+
+![negative prompt example](../assets/components_list-item_negative_prompt_example_729.png)
 
 #### Single line
 
@@ -1986,11 +2708,15 @@ When the content is short and succinct, the container adjusts to match the width
 
 
 
+![single line prompt example](../assets/components_list-item_single_line_prompt_example_730.png)
+
 #### Multi-line
 
 When the content has multiple lines the validation will stretch to the full width (minus the Avatar).
 
 
+
+![Multi-line prompt example](../assets/components_list-item_multi_line_prompt_example_731.png)
 
 #### Links
 
@@ -2001,6 +2727,8 @@ On mobile the full prompt is clickable, whereas on desktop only the link is.
 Prompt Link content should be intimately connected to the action of the parent List Item. It should take the user to a nearby and quick loading page, not to a totally different part of the website.
 
 
+
+![example of link in a prompt](../assets/components_list-item_example_of_link_in_a_prompt_732.png)
 
 ### Spotlight
 
@@ -2014,11 +2742,19 @@ Use to suggest an action the user hasn't done
 
 
 
+![inactive spotlight example](../assets/components_list-item_inactive_spotlight_example_733.png)
+
 #### Active
 
 Use to show an option the user has activated
 
 
+
+![active spotlight example](../assets/components_list-item_active_spotlight_example_734.png)
+
+![do example for spotlight](../assets/components_list-item_do_example_for_spotlight_735.png)
+
+![don't example for spotlight](../assets/components_list-item_don_t_example_for_spotlight_736.png)
 
 ### Interaction
 
@@ -2040,6 +2776,14 @@ Fully interactive list items are supported by hover, active, disabled and focus 
 
 
 
+![fully interactive hover state](../assets/components_list-item_fully_interactive_hover_state_737.png)
+
+![fully interactive active state](../assets/components_list-item_fully_interactive_active_state_738.png)
+
+![Fully interactive disabled state](../assets/components_list-item_fully_interactive_disabled_sta_739.png)
+
+![fully interactive focus state](../assets/components_list-item_fully_interactive_focus_state_740.png)
+
 #### Partially interactive
 
 Icon button and button accessories can also be partially interactive, where the touch area area is targeted on the accessory.
@@ -2054,11 +2798,25 @@ The interaction states of these areas depend on the style of the component or te
 
 
 
+![an interactive pointer gloved hand hovering over a link](../assets/components_list-item_an_interactive_pointer_gloved__741.png)
+
+![a gloved hand hovering over the icon button](../assets/components_list-item_a_gloved_hand_hovering_over_th_742.png)
+
+![two gloved hands, one over button and one over link](../assets/components_list-item_two_gloved_hands__one_over_but_743.png)
+
+![two list items, both partially interactive ](../assets/components_list-item_two_list_items__both_partially_744.png)
+
+![a fully interactive list item above a partially interactive list item](../assets/components_list-item_a_fully_interactive_list_item__745.png)
+
 ### Content Hierarchy
 
 List item supports default and inverted title and description to allow for further flexibility in the component. 
 
 
+
+![Default content hierarchy on a list item](../assets/components_list-item_default_content_hierarchy_on_a_746.png)
+
+![Inverted hierarchy on a list item](../assets/components_list-item_inverted_hierarchy_on_a_list_i_747.png)
 
 #### Default values
 
@@ -2070,11 +2828,19 @@ Both title and description values support sentiment colours as vwell as striketh
 
 
 
+![list item with title and subtitle](../assets/components_list-item_list_item_with_title_and_subti_748.png)
+
+![list item with only title](../assets/components_list-item_list_item_with_only_title_749.png)
+
+![list item with only description ](../assets/components_list-item_list_item_with_only_descriptio_750.png)
+
 #### Inverse values
 
 Only the title value is supported on the inverse hierarchy of list item.
 
 
+
+![list item with inverted values](../assets/components_list-item_list_item_with_inverted_values_751.png)
 
 ### Content
 
@@ -2097,6 +2863,10 @@ Title copy should:
 
 
 
+![list items with good titles](../assets/components_list-item_list_items_with_good_titles_752.png)
+
+![List item with bad titles](../assets/components_list-item_list_item_with_bad_titles_753.png)
+
 #### Subtitle
 
 Include a subtitle if you have evidence that users need a little more context in order to understand where the navigation option with navigate them. If you include a subtitle for one option in a set, then include it for all of them.
@@ -2111,6 +2881,10 @@ Subtitle copy should:
 
 
 
+![list items with good subtitles](../assets/components_list-item_list_items_with_good_subtitles_754.png)
+
+![list items with bad subtitles ](../assets/components_list-item_list_items_with_bad_subtitles_755.png)
+
 #### Additional information
 
 Use additional information to add extra details that help make the information clearer for users. Use additional information only after you’ve used the subtitle.
@@ -2124,6 +2898,8 @@ Additional information copy should:
 
 
 
+![List item with additional information](../assets/components_list-item_list_item_with_additional_info_756.png)
+
 #### Value(s)
 
 Values (optional), can be displayed when you need to display amounts related to the content.
@@ -2133,6 +2909,14 @@ They can be displayed with text formatting (sentiment colours & strikethrough) t
 
 
 
+
+![list item with values on the same line](../assets/components_list-item_list_item_with_values_on_the_s_757.png)
+
+![list item with values that wrap to two lines](../assets/components_list-item_list_item_with_values_that_wra_758.png)
+
+![list item that uses color to enhance the message (green for + value)](../assets/components_list-item_list_item_that_uses_color_to_e_759.png)
+
+![list item that uses red for the color but omits the minus sign](../assets/components_list-item_list_item_that_uses_red_for_th_760.png)
 
 ### Accessibility
 
@@ -2150,6 +2934,18 @@ The high contrast ratio allows the user to understand exactly why the list item 
 
 
 
+![disabled navigation list item](../assets/components_list-item_disabled_navigation_list_item_761.png)
+
+![disabled checkbox list item](../assets/components_list-item_disabled_checkbox_list_item_762.png)
+
+![Radio disabled list item](../assets/components_list-item_radio_disabled_list_item_763.png)
+
+![disabled icon button list item](../assets/components_list-item_disabled_icon_button_list_item_764.png)
+
+![Disabled switch list item](../assets/components_list-item_disabled_switch_list_item_765.png)
+
+![disabled button list item](../assets/components_list-item_disabled_button_list_item_766.png)
+
 #### Screen-readers
 
 Depending on the platform and screen reader used, the List Item contents can be read out in a different manner. Some screen readers might treat separate parts of the content (e.g. title or subtitle) as a continuous string of text, so it's important to include punctuation whenever applicable to introduce pause and different enunciation. 
@@ -2166,11 +2962,17 @@ Do not duplicate the content - if, for example, your List Item's title says `EUR
 
 Our media button lets the user pause and stop moving content for more control and enhanced accessibility
 
+![An image of our media buttons](../assets/components_media-button_an_image_of_our_media_buttons_767.png)
+
 ### When to use
 
 The media button allows users to pause and stop any content that starts moving automatically and moves for more than 5 seconds.
 
 
+
+![Our media button used for a light background](../assets/components_media-button_our_media_button_used_for_a_li_768.png)
+
+![Our media button used for a dark background](../assets/components_media-button_our_media_button_used_for_a_da_769.png)
 
 ### Placement
 
@@ -2183,6 +2985,8 @@ The button should be positioned at the bottom right corner of the media.
 ## Modal
 
 A modal is an overlay that interrupts the user’s task to show an important message, disabling the rest of the screen.
+
+![Modal](../assets/components_modal_modal_770.png)
 
 ### When to use
 
@@ -2257,6 +3061,14 @@ Title copy should:
 
 
 
+![A modal with a short and succinct title.](../assets/components_modal_a_modal_with_a_short_and_succi_771.png)
+
+![A modal with a long title.](../assets/components_modal_a_modal_with_a_long_title_772.png)
+
+![A modal with a question as the title.](../assets/components_modal_a_modal_with_a_question_as_the_773.png)
+
+![A modal with a long question as the title.](../assets/components_modal_a_modal_with_a_long_question_a_774.png)
+
 #### Main content
 
 You should use the main content of the modal to include any supporting information. Supporting information expands on the purpose of the modal, and helps the user make a decision or understand the situation better. 
@@ -2292,6 +3104,14 @@ An example would be if the modal is asking the user to confirm a cancellation.
 
 
 
+![A modal where the action makes it clear what will happen next.](../assets/components_modal_a_modal_where_the_action_makes_777.png)
+
+![A modal with generic action copy.](../assets/components_modal_a_modal_with_generic_action_co_778.png)
+
+![A modal with two buttons.](../assets/components_modal_a_modal_with_two_buttons_779.png)
+
+![A modal with two buttons, where it's not clear what each action will do.](../assets/components_modal_a_modal_with_two_buttons__wher_780.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -2303,6 +3123,8 @@ An example would be if the modal is asking the user to confirm a cancellation.
 ## Money input
 
 Money input lets users enter an amount in a currency of their choice or validate a prefilled currency.
+
+![Money input](../assets/components_money-input_money_input_781.png)
 
 ### When to use
 
@@ -2372,6 +3194,10 @@ Label copy should be accurate and make it clear what will happen.
 
 
 
+![Money input with an accurate label.](../assets/components_money-input_money_input_with_an_accurate_l_782.png)
+
+![Money input with an inaccurate label.](../assets/components_money-input_money_input_with_an_inaccurate_783.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -2387,6 +3213,8 @@ Label copy should be accurate and make it clear what will happen.
 A navigation option gave users a rich way to choose between options and navigate to another screen or step in a flow. Navigation options are presented in a list or as tiles (tiles are web only).
 
 It has been deprecated. Please use [list item](https://wise.design/components/list-item).
+
+![Navigation option](../assets/components_navigation-option_navigation_option_784.png)
 
 ### When to use
 
@@ -2459,6 +3287,10 @@ Title copy should:
 
 
 
+![Two navigation options with succinct, consistent titles.](../assets/components_navigation-option_two_navigation_options_with_su_785.png)
+
+![Two navigation options with long and inconsistent titles.](../assets/components_navigation-option_two_navigation_options_with_lo_786.png)
+
 #### Description (optional)
 
 Include a description if you have evidence that users need a little more context in order to understand where the navigation option with navigate them. If you include a description for one option in a set, then include it for all of them.
@@ -2474,6 +3306,10 @@ Description copy should:
 
 
 
+![Two navigation options with short and succinct descriptions.](../assets/components_navigation-option_two_navigation_options_with_sh_787.png)
+
+![Two navigation options with long and inconsistent descriptions.](../assets/components_navigation-option_two_navigation_options_with_lo_788.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -2486,6 +3322,8 @@ Description copy should:
 
 A nudge directs users to take an action on something that might be relevant at the time they see it.
 
+![Nudge](../assets/components_nudge_nudge_789.png)
+
 ### When to use
 
 
@@ -2497,6 +3335,20 @@ A nudge directs users to take an action on something that might be relevant at t
 There are 7 different variants of nudge, each with a different illustration.
 
 
+
+![A nudge component with a globe illustration.](../assets/components_nudge_a_nudge_component_with_a_globe_790.png)
+
+![A nudge icon with a padlock illustration.](../assets/components_nudge_a_nudge_icon_with_a_padlock_il_791.png)
+
+![A nudge with a wallet illustration.](../assets/components_nudge_a_nudge_with_a_wallet_illustra_792.png)
+
+![A nudge with a cog illustration.](../assets/components_nudge_a_nudge_with_a_cog_illustratio_793.png)
+
+![A nudge with an envelope illustration.](../assets/components_nudge_a_nudge_with_an_envelope_illus_794.png)
+
+![A nudge with a personal account card illustration.](../assets/components_nudge_a_nudge_with_a_personal_accoun_795.png)
+
+![A nudge with a business account card illustration.](../assets/components_nudge_a_nudge_with_a_business_accoun_796.png)
 
 ### Placement
 
@@ -2543,6 +3395,14 @@ If you can't fit the action and the benefit in one sentence, you can include a s
 
 
 
+![A nudge with a single sentence for a title.](../assets/components_nudge_a_nudge_with_a_single_sentence_797.png)
+
+![A nudge with a very long sentence for a title.](../assets/components_nudge_a_nudge_with_a_very_long_sente_798.png)
+
+![A nudge with two short sentences.](../assets/components_nudge_a_nudge_with_two_short_sentenc_799.png)
+
+![A nudge with a lengthy second sentence.](../assets/components_nudge_a_nudge_with_a_lengthy_second__800.png)
+
 #### Action
 
 Action copy should:
@@ -2557,6 +3417,10 @@ Action copy should:
 
 
 
+![A nudge with short and succinct action copy.](../assets/components_nudge_a_nudge_with_short_and_succinc_801.png)
+
+![A nudge with very long action copy.](../assets/components_nudge_a_nudge_with_very_long_action__802.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -2570,6 +3434,8 @@ Action copy should:
 ## Password input
 
 Lets users enter their password as part of a login or authentication process.
+
+![TBC](../assets/components_password-input_tbc_803.png)
 
 ### When to use
 
@@ -2595,6 +3461,10 @@ Label copy should:
 
 
 
+
+![A password input with the correct label copy.](../assets/components_password-input_a_password_input_with_the_corr_804.png)
+
+![A password input with incorrect label copy.](../assets/components_password-input_a_password_input_with_incorrec_805.png)
 
 #### Description (optional)
 
@@ -2634,6 +3504,8 @@ The optional description offers a good alternative when you need to provide help
 
 A popover is a short, floating message that gives the user some non-critical, extra context.
 
+![Popover](../assets/components_popover_popover_806.png)
+
 ### When to use
 
 
@@ -2655,6 +3527,8 @@ Popovers can sit above, below, to the left, or to the right of the button that t
 The component will adjust its placement automatically depending on its position and the space available on the screen.
 
 
+
+![The four different placement options for popovers.](../assets/components_popover_the_four_different_placement_o_807.png)
 
 ### Interaction
 
@@ -2697,6 +3571,10 @@ Content copy should:
 
 
 
+![A popover which defines a term.](../assets/components_popover_a_popover_which_defines_a_term_808.png)
+
+![A popover that contains crucial information for the user.](../assets/components_popover_a_popover_that_contains_crucia_809.png)
+
 #### Title (optional)
 
 Don’t include a title unless you are using the popover to define a term or phrase.
@@ -2710,6 +3588,10 @@ Title copy should:
 
 
 
+
+![A popover with a title, as the content defines a term.](../assets/components_popover_a_popover_with_a_title__as_the_810.png)
+
+![A popover without a title, as it doesn't define a term.](../assets/components_popover_a_popover_without_a_title__as__811.png)
 
 ### Availability
 
@@ -2735,6 +3617,8 @@ Progress bars are used when the server cannot reliably predict what content will
 
 
 
+![Three different types of reassuring messages cycle and loop indefinitely. ](../assets/components_progress-bar_three_different_types_of_reass_812.png)
+
 ### Progress Spinner vs Bar
 
 The progress spinner and bar are used to communicate different loading behaviours.
@@ -2749,11 +3633,23 @@ Place a progress bar within the container that's loading. If a group of items is
 
 
 
+![Progress bar with sizing specifications.](../assets/components_progress-bar_progress_bar_with_sizing_speci_813.png)
+
+![Progress bar placement on a modal](../assets/components_progress-bar_progress_bar_placement_on_a_mo_814.png)
+
+![Progress bar placement on a banner](../assets/components_progress-bar_progress_bar_placement_on_a_ba_815.png)
+
+![Progress bar placement on bottom sheets](../assets/components_progress-bar_progress_bar_placement_on_bott_816.png)
+
 ### Light and dark mode
 
 Light mode and dark mode use different tapestry fills. 
 
 
+
+![Progress bar in light mode](../assets/components_progress-bar_progress_bar_in_light_mode_817.png)
+
+![Progress Bar in dark mode ](../assets/components_progress-bar_progress_bar_in_dark_mode_818.png)
 
 ---
 
@@ -2782,6 +3678,8 @@ The spinner and content is always displayed immediately and cycles indefinitely 
 
 
 
+![Four examples of different messaging used underneath the spinner](../assets/components_progress-spinner_four_examples_of_different_mes_819.png)
+
 ### Placement 
 
 The spinning progress indicator should be centred horizontally and vertically within containers on mobile and web. Test the whole flow to check the screen loaders are consistent in terms of screen location and size. This will help to ensure that spinners that occur one after the other on different screens have the same size and position. 
@@ -2795,11 +3693,21 @@ The spinning progress indicator should be centred horizontally and vertically wi
 
 A promo card is used to promote products and features.
 
+![Promo card](../assets/components_promo-card_promo_card_820.png)
+
 ### When to use
 
 
 
 
+
+![Promo card for stocks](../assets/components_promo-card_promo_card_for_stocks_821.png)
+
+![Promo card in carousel](../assets/components_promo-card_promo_card_in_carousel_822.png)
+
+![Promo card selected](../assets/components_promo-card_promo_card_selected_823.png)
+
+![Promo card in a flow](../assets/components_promo-card_promo_card_in_a_flow_824.png)
 
 ### Best practices
 
@@ -2812,11 +3720,19 @@ Ensure content is scannable and non-obtrusive.
 
 
 
+![Promo card](../assets/components_promo-card_promo_card_825.png)
+
+![Promo card with text under image](../assets/components_promo-card_promo_card_with_text_under_ima_826.png)
+
 ### Placement
 
 
 
 
+
+![Cards aligned next to one another](../assets/components_promo-card_cards_aligned_next_to_one_anot_827.png)
+
+![Promo cards misaligned in height](../assets/components_promo-card_promo_cards_misaligned_in_heig_828.png)
 
 ### Interaction
 
@@ -2824,11 +3740,19 @@ The whole card can be clickable, as well as links and buttons.
 
 
 
+![Promo card states](../assets/components_card_card_states_516.png)
+
+![Promo card button](../assets/components_promo-card_promo_card_button_829.png)
+
 ### Accessibility
 
 The card component scales in height with dynamic text.
 
 
+
+![Promo card enlarged text no image](../assets/components_promo-card_promo_card_enlarged_text_no_im_830.png)
+
+![Promo card with image over text](../assets/components_promo-card_promo_card_with_image_over_tex_831.png)
 
 ### Availability
 
@@ -2843,6 +3767,8 @@ The card component scales in height with dynamic text.
 ## Radio
 
 A radio lets users select a single item from a mutually exclusive list.
+
+![Radio](../assets/components_radio_radio_832.png)
 
 ### When to use
 
@@ -2861,6 +3787,8 @@ A radio lets users select a single item from a mutually exclusive list.
 ## Screen loader
 
 A screen loader is a temporary indicator to tell the user that a screen is loading. Once it’s finished, the loader is replaced by the screen. If on mobile please refer to the progress bar guidance page.
+
+![A loader.](../assets/components_screen-loader_a_loader_833.png)
 
 ### When to use
 
@@ -2893,6 +3821,8 @@ The screen loader should be centred horizontally on the screen, and be towards t
 ## Search input
 
 A search input allows users to look for information from a wide set of possible results.
+
+![Search input](../assets/components_search-input_search_input_834.png)
 
 ### When to use
 
@@ -2955,11 +3885,17 @@ Placeholder copy should:
 
 A section header divides sections of a screen.
 
+![Section header](../assets/components_section-header_section_header_835.png)
+
 ### Types
 
 There are two different types of section header — section and group.
 
 
+
+![Section header on launchpad](../assets/components_section-header_section_header_on_launchpad_836.png)
+
+![Group header on list](../assets/components_section-header_group_header_on_list_837.png)
 
 ### When to use
 
@@ -3001,19 +3937,35 @@ Text should:
 
 A segmented control allows users to update views of content and select between 2-3 alike options.
 
+![Segmented control](../assets/components_segmented-control_segmented_control_838.png)
+
 ### When to use
 
 
 
 
 
+![Send money screen with segmented control](../assets/components_segmented-control_send_money_screen_with_segment_839.png)
+
+![Transaction details with segmented control](../assets/components_segmented-control_transaction_details_with_segme_840.png)
+
 ### Best practice
+
+![Account details with in line segmented control](../assets/components_segmented-control_account_details_with_in_line_s_841.png)
+
+![Transfer approval with ](../assets/components_segmented-control_transfer_approval_with_842.png)
 
 ### Placement
 
 
 
 
+
+![Center aligned on grid](../assets/components_segmented-control_center_aligned_on_grid_843.png)
+
+![Add team member with full width segmented control](../assets/components_segmented-control_add_team_member_with_full_widt_844.png)
+
+![Team page with left aligned segmented control](../assets/components_segmented-control_team_page_with_left_aligned_se_845.png)
 
 ### Interaction
 
@@ -3023,6 +3975,8 @@ Selecting certain options inside forms may trigger alerts.
 
 
 
+![Segmented control with alert](../assets/components_segmented-control_segmented_control_with_alert_846.png)
+
 ### Accessibility
 
 For longer translations or scaled content, text will wrap over 2 lines if needed.
@@ -3030,6 +3984,10 @@ For longer translations or scaled content, text will wrap over 2 lines if needed
 Never use truncation, this hides options and is poor for discoverability. 
 
 
+
+![Segmented control with two lines of text](../assets/components_segmented-control_segmented_control_with_two_lin_847.png)
+
+![Segmented control with text truncation](../assets/components_segmented-control_segmented_control_with_text_tr_848.png)
 
 ### Content
 
@@ -3048,6 +4006,18 @@ Options should:
 
 
 
+![Segmented control](../assets/components_segmented-control_segmented_control_849.png)
+
+![Segmented control with too many words](../assets/components_segmented-control_segmented_control_with_too_man_850.png)
+
+![Segmented control with alike titles](../assets/components_segmented-control_segmented_control_with_alike_t_851.png)
+
+![Segmented control with varied titles](../assets/components_segmented-control_segmented_control_with_varied__852.png)
+
+![Segmented control with same hierarchy](../assets/components_segmented-control_segmented_control_with_same_hi_853.png)
+
+![Segmented control with different hierarachy](../assets/components_segmented-control_segmented_control_with_differe_854.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -3061,6 +4031,8 @@ Options should:
 ## Select
 
 A select lets a user pick an option from a long list of options — typically 6 or more.
+
+![A select component.](../assets/components_dropdown_dropdown_580.png)
 
 ### When to use
 
@@ -3132,6 +4104,8 @@ Description copy should:
 
 A snackbar is a brief, temporary notification that confirms the outcome of an action or process that’s just happened.
 
+![Snackbar](../assets/components_snackbar_snackbar_855.png)
+
 ### When to use
 
 
@@ -3185,6 +4159,18 @@ The text should:
 
 
 
+![A snackbar with a short title](../assets/components_snackbar_a_snackbar_with_a_short_title_856.png)
+
+![A snackbar with a short and succinct title.](../assets/components_snackbar_a_snackbar_with_a_short_and_su_857.png)
+
+![A snackbar with a short and succinct title.](../assets/components_snackbar_a_snackbar_with_a_short_and_su_858.png)
+
+![A snackbar with a long title.](../assets/components_snackbar_a_snackbar_with_a_long_title_859.png)
+
+![A snackbar with a long title.](../assets/components_snackbar_a_snackbar_with_a_long_title_860.png)
+
+![A snackbar with a long title.](../assets/components_snackbar_a_snackbar_with_a_long_title_861.png)
+
 #### Neutral
 
 Use a neutral banner to provide a non-urgent update about the overall account state — for example, when an account has moved from suspended to in-review.
@@ -3207,6 +4193,22 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 
 
 
+![Neutral critical banner with a calm and factual tone](../assets/components_button_neutral_critical_banner_with_a_499.png)
+
+![Neutral critical banner with vague language](../assets/components_button_neutral_critical_banner_with_v_500.png)
+
+![A snackbar with a single verb as the button text.](../assets/components_snackbar_a_snackbar_with_a_single_verb__862.png)
+
+![A snackbar with a single verb as the button copy.](../assets/components_snackbar_a_snackbar_with_a_single_verb__863.png)
+
+![A snackbar with 'Cancel' as the button copy.](../assets/components_snackbar_a_snackbar_with__cancel__as_th_864.png)
+
+![A snackbar with 'Close' as the button copy.](../assets/components_snackbar_a_snackbar_with_a_long_title_860.png)
+
+![A snackbar with 'Confirm' as the button copy.](../assets/components_snackbar_a_snackbar_with_a_long_title_861.png)
+
+![A snackbar with 'Go' as the button copy.](../assets/components_snackbar_a_snackbar_with__go__as_the_bu_865.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -3220,6 +4222,8 @@ If a CTA is needed, the button should start with a verb and describe exactly wha
 ## Summary
 
 A summary summarises instructions, tasks, or benefits in a list.
+
+![Summary](../assets/components_summary_summary_866.png)
 
 ### When to use
 
@@ -3304,6 +4308,14 @@ Title copy should:
 
 
 
+![A summary with a short and succinct title.](../assets/components_summary_a_summary_with_a_short_and_suc_867.png)
+
+![A summary with a long title.](../assets/components_summary_a_summary_with_a_long_title_868.png)
+
+![Four summary items with consistent titles.](../assets/components_summary_four_summary_items_with_consis_869.png)
+
+![Four summary items with inconsistent titles.](../assets/components_summary_four_summary_items_with_incons_870.png)
+
 #### Description (optional)
 
 Description copy should:
@@ -3317,6 +4329,14 @@ Description copy should:
 
 
 
+
+![A summary with a short and succinct description.](../assets/components_summary_a_summary_with_a_short_and_suc_871.png)
+
+![A summary with a very long description.](../assets/components_summary_a_summary_with_a_very_long_des_872.png)
+
+![Three summary items with consistent descriptions.](../assets/components_summary_three_summary_items_with_consi_873.png)
+
+![Three summary items, but with inconsistent descriptions.](../assets/components_summary_three_summary_items__but_with__874.png)
 
 #### Action (optional)
 
@@ -3332,6 +4352,10 @@ Action copy should:
 
 
 
+![A summary with a short action.](../assets/components_summary_a_summary_with_a_short_action_875.png)
+
+![A summary with very long action text.](../assets/components_summary_a_summary_with_very_long_actio_876.png)
+
 ### Availability
 
 | Platform | Available | Developer documentation |
@@ -3345,6 +4369,8 @@ Action copy should:
 ## Switch
 
 A switch lets the user toggle an individual setting on or off.
+
+![TBC](../assets/components_switch_tbc_877.png)
 
 ### Availability
 
@@ -3360,6 +4386,8 @@ A switch lets the user toggle an individual setting on or off.
 
 Tables allow users to review large amounts of sequential information at a glance.
 
+![Table](../assets/components_table_table_878.png)
+
 ### Best practices
 
 Tables are useful for organising data in grids and can be used to: Compare data points, Find insights, Find specific information within a large data set, and Show long lists of sequential or structured content. 
@@ -3367,6 +4395,10 @@ Tables are useful for organising data in grids and can be used to: Compare data 
 
 
 
+
+![Short content on table](../assets/components_table_short_content_on_table_879.png)
+
+![Table with long text](../assets/components_table_table_with_long_text_880.png)
 
 ### When to use
 
@@ -3376,11 +4408,17 @@ Use tables when you need to display comparison information across columns and ro
 
 
 
+![Table in modal](../assets/components_table_table_in_modal_881.png)
+
+![Table with simple content](../assets/components_table_table_with_simple_content_882.png)
+
 ### Interaction
 
 Users can perform a single action across a row.
 
 
+
+![Full with interaction on table row](../assets/components_table_full_with_interaction_on_table_883.png)
 
 ### Device
 
@@ -3388,11 +4426,23 @@ The table component is a mobile responsive web component — at smaller screen w
 
 
 
+![Full width table](../assets/components_table_full_width_table_884.png)
+
+![Table responsive truncated width](../assets/components_table_table_responsive_truncated_wid_885.png)
+
 ### Cell types
 
 Table has 5 different cell types used for different types of information — header, leading, text, currency and status.
 
 
+
+![Leading cell example](../assets/components_table_leading_cell_example_886.png)
+
+![Text cell type example](../assets/components_table_text_cell_type_example_887.png)
+
+![Currency cell type example](../assets/components_table_currency_cell_type_example_888.png)
+
+![Status cell type example](../assets/components_table_status_cell_type_example_889.png)
 
 #### Leading
 
@@ -3404,6 +4454,12 @@ Leading supports default, error and success states.
 
 
 
+![Default example of leading cell type](../assets/components_table_default_example_of_leading_cel_890.png)
+
+![Error on leading cell type](../assets/components_table_error_on_leading_cell_type_891.png)
+
+![Success on leading cell type](../assets/components_table_success_on_leading_cell_type_892.png)
+
 #### Text
 
 The content cell is used for text based information.
@@ -3411,6 +4467,12 @@ The content cell is used for text based information.
 Content supports default, error and success states.
 
 
+
+![Default text cell type example](../assets/components_table_default_text_cell_type_example_893.png)
+
+![Error text cell type example](../assets/components_table_error_text_cell_type_example_894.png)
+
+![Success on text cell type example](../assets/components_table_success_on_text_cell_type_exam_895.png)
 
 #### Currency
 
@@ -3422,6 +4484,12 @@ Currency supports default, error and success states.
 
 
 
+![Default currency cell type example](../assets/components_table_default_currency_cell_type_exa_896.png)
+
+![Error on currency cell type example](../assets/components_table_error_on_currency_cell_type_ex_897.png)
+
+![Success on currency cell type example](../assets/components_table_success_on_currency_cell_type__898.png)
+
 #### Status
 
 The status cell is used for indicating the status of a row.
@@ -3430,11 +4498,25 @@ Status supports info, pending, warning, error and success states.
 
 
 
+![Info status cell type example](../assets/components_table_info_status_cell_type_example_899.png)
+
+![Pending status cell type example](../assets/components_table_pending_status_cell_type_examp_900.png)
+
+![Alert status cell type example](../assets/components_table_alert_status_cell_type_example_901.png)
+
+![Error status cell type example](../assets/components_table_error_status_cell_type_example_902.png)
+
+![Success status cell type example](../assets/components_table_success_status_cell_type_examp_903.png)
+
 #### Header
 
 Table headers are used for identifying the tables primary content.
 
 
+
+![Table header default cell type](../assets/components_table_table_header_default_cell_type_904.png)
+
+![Table header error cell type](../assets/components_table_table_header_error_cell_type_905.png)
 
 ### Availability
 
@@ -3450,11 +4532,15 @@ Table headers are used for identifying the tables primary content.
 
 Tabs organise content into sections that users can alternate between.
 
+![Tabs](../assets/components_tabs_tabs_906.png)
+
 ### When to use
 
 
 
 
+
+![Teams selection page with tabs](../assets/components_tabs_teams_selection_page_with_tabs_907.png)
 
 ### Availability
 
@@ -3493,11 +4579,25 @@ Options should:
 
 
 
+![Tabs with related content](../assets/components_tabs_tabs_with_related_content_908.png)
+
+![Tabs with sequential content](../assets/components_tabs_tabs_with_sequential_content_909.png)
+
+![Tabs with content groups](../assets/components_tabs_tabs_with_content_groups_910.png)
+
+![Tabs with alike options](../assets/components_tabs_tabs_with_alike_options_911.png)
+
+![Tabs with related content](../assets/components_tabs_tabs_with_related_content_912.png)
+
+![Tabs with filtering options](../assets/components_tabs_tabs_with_filtering_options_913.png)
+
 ---
 
 ## Text area
 
 A text area is a field that lets users enter several lines of text.
+
+![TBC](../assets/components_text-area_tbc_914.png)
 
 ### When to use
 
@@ -3535,6 +4635,10 @@ Description copy should:
 
 
 
+![A text area with a short and succinct description.](../assets/components_text-area_a_text_area_with_a_short_and_s_915.png)
+
+![A text area with multiple sentences as the description.](../assets/components_text-area_a_text_area_with_multiple_sent_916.png)
+
 #### Placeholders
 
 Placeholders are not supported in most of our components, since (according to our research):
@@ -3562,6 +4666,8 @@ The optional description offers a good alternative when you need to provide help
 
 A text input lets users enter a single line of text.
 
+![Text input](../assets/components_text-input_text_input_917.png)
+
 ### When to use
 
 
@@ -3586,6 +4692,10 @@ Label copy should:
 
 
 
+
+![A text input with a short, single word label.](../assets/components_text-input_a_text_input_with_a_short__sin_918.png)
+
+![A text input with an instruction as the label](../assets/components_text-input_a_text_input_with_an_instructi_919.png)
 
 #### Description (optional)
 
@@ -3624,6 +4734,8 @@ The optional description offers a good alternative when you need to provide help
 
 An upload input lets users upload a single file, or multiple files, within a form.
 
+![TBC](../assets/components_upload-input_tbc_920.png)
+
 ### When to use
 
 
@@ -3635,6 +4747,10 @@ An upload input lets users upload a single file, or multiple files, within a for
 You can use the upload input to let users upload a single file or multiple files.
 
 
+
+![An upload input with a single file.](../assets/components_upload-input_an_upload_input_with_a_single__921.png)
+
+![An upload input with multiple files.](../assets/components_upload-input_an_upload_input_with_multiple__922.png)
 
 ### Best practice
 
@@ -3664,6 +4780,14 @@ The upload input has 4 different states.
 
 
 
+![An upload input in the default state.](../assets/components_upload-input_an_upload_input_in_the_default_923.png)
+
+![An upload input in the loading state.](../assets/components_upload-input_an_upload_input_in_the_loading_924.png)
+
+![An upload input with an uploaded state.](../assets/components_upload-input_an_upload_input_with_an_upload_925.png)
+
+![An upload input where the upload has failed.](../assets/components_upload-input_an_upload_input_where_the_uplo_926.png)
+
 ### Content
 
 #### Label
@@ -3672,17 +4796,29 @@ The label describes the type of file the user needs to upload, for example 'Invo
 
 
 
+![An upload input with a descriptive label.](../assets/components_upload-input_an_upload_input_with_a_descrip_927.png)
+
+![An upload input with a question as the label.](../assets/components_upload-input_an_upload_input_with_a_questio_928.png)
+
 #### Title
 
 In the default state, the title is a call to action. The default copy for this state is 'Upload file' or 'Upload files'. But if you need to change this, treat it like writing button copy. That means starting with a verb, and using as few words as possible.
 
 
 
+![An upload input with a short instruction as the title.](../assets/components_upload-input_an_upload_input_with_a_short_i_929.png)
+
+![An upload input with a long title.](../assets/components_upload-input_an_upload_input_with_a_long_ti_930.png)
+
 #### Description
 
 The description describes the state of the upload. For the failed state, it's important to make this copy as specific as possible so the user understands what went wrong and what they can do to fix it.
 
 
+
+![A failed upload where the description tells the user why the upload has failed.](../assets/components_upload-input_a_failed_upload_where_the_desc_931.png)
+
+![A failed upload where the description just tells the user that it's failed.](../assets/components_upload-input_a_failed_upload_where_the_desc_932.png)
 
 ### Availability
 
@@ -3697,6 +4833,8 @@ The description describes the state of the upload. For the failed state, it's im
 ## Upload
 
 Upload lets users upload a single file when uploading is the primary purpose of the screen.
+
+![Upload component.](../assets/components_upload_upload_component_933.png)
 
 ### When to use
 
