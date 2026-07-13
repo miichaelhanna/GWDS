@@ -92,7 +92,9 @@ When building web applications using the Neptune design system, implement layout
 </div>
 ```
 
-Refer to the detailed reference documents inside the `references/` folder:
-*   [Foundations Guide](file:///references/foundations.md) - Exact hex values, typographic scales, spacing tokens, accessibility tables.
-*   [Components Guide](file:///references/components.md) - Rules, props, and variants for 50+ components (Buttons, Cards, Inputs, Modals, etc.).
-*   [Patterns Guide](file:///references/patterns.md) - Rules and design guidelines for layouts, screens (success, error), and notification grids.
+Refer to the detailed reference documents:
+*   [Foundations Guide](references/foundations.md) - Exact hex values, typographic scales, spacing tokens, accessibility tables.
+*   [Components Guide](references/components.md) - Rules, props, and variants for 50+ components (Buttons, Cards, Inputs, Modals, etc.).
+*   [Patterns Guide](references/patterns.md) - Rules and design guidelines for layouts, screens (success, error), and notification grids.
+*   [Assets Selection Guide](assets_guide.md) - Naming conventions and lookup details for the 1,293 integrated design assets.
+
