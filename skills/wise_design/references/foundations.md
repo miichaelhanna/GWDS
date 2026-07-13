@@ -241,9 +241,61 @@ Our colours work equally well in dark mode.
 
 Our typographic system is built on legibility and accessibility. It’s clear, bold, and — when we use our international glyphs — endlessly expressive.
 
+### Using Fonts Locally
+
+This skill includes the open-source **Inter** typeface files (Regular, Medium, SemiBold, Bold, ExtraBold) inside the `fonts/` directory. 
+
+To reference and load these fonts in your CSS, add the following `@font-face` definitions:
+
+```css
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Inter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/Inter-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/Inter-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/Inter-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+```
+
+> [!NOTE]
+> **Wise Sans** is a proprietary brand typeface. For designs requiring it, it must be loaded from Wise's authorized assets servers or substituted with a heavy display sans-serif alternative in test/development environments.
+
 ![Dollars, to pesos, to pounds, to euros.](../assets/foundations_typography_dollars__to_pesos__to_pounds___351.png)
 
 ### Approach
+
 
 ![Text in Inter font with a bolded title of "One account, all kinds of money" and body text below, "For people who use money wherever they go".](../assets/foundations_typography_text_in_inter_font_with_a_bold_352.png)
 
